@@ -4,15 +4,6 @@ The _OSS-Generic Reference Process_ described in this repo documents common prac
 on GitHub, notably, https://github.com/teammates/teammates[TEAMMATES],
 https://github.com/se-edu/main[SE-EDU projects], https://github.com/powerpointlabs/powerpointlabs[PowerPointLabs].
 
-== For new contributors
-
-* *<<docs/AdviceForOssBeginners.adoc#,Advice for OSS beginners>>*
-* *<<docs/QuestionsIssuesPrs.adoc#asking-a-question,Asking a Question>>*
-* *<<docs/QuestionsIssuesPrs.adoc#posting-an-issue,Posting an Issue>>*
-* *<<docs/QuestionsIssuesPrs.adoc#submitting-a-pr,Submitting a PR>>*
-* *<<docs/AdvancedContributorGuidelines.adoc#,Advanced Contributor Guidelines>>*: Additional guidelines more
-experienced contributors are expected to follow.
-
 == General references
 
 * *<<docs/CodingStandards.adoc#,Coding Standards>>*
